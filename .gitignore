@@ -28,6 +28,9 @@ hs_err_pid*
 **/.settings/
 
 **/target/
+**/mvnw/
+**/mvnw.cmd/
+**/!.mvn/wrapper/maven-wrapper.jar
 
 
 HELP.md
